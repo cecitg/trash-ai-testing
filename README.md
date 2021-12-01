@@ -10,3 +10,5 @@ The team is searching for a model that has been trained as a proof of concept (P
 The POCs involves a developers examining the client’s requirements, selecting a few to focus on, and creating a proof of concept to meet those requirements.
 Trained model is available for view:
 https://colab.research.google.com/drive/1QKI1EzHGkEwc1PMsfqJ3Mc87NfmTUsx9?usp=sharing
+
+We try to send Travis CI but it did not recive and updated version, we couldn't triger the travis again.
