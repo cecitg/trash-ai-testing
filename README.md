@@ -12,3 +12,6 @@ Trained model is available for view:
 https://colab.research.google.com/drive/1QKI1EzHGkEwc1PMsfqJ3Mc87NfmTUsx9?usp=sharing
 
 We try to send Travis CI but it did not recive and updated version, we couldn't triger the travis again.
+
+This fork code does not have the same code from the main repo.
+This code is for our task 2 of our group and it used to show Training Data Storage on colab.
